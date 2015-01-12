@@ -1,0 +1,1 @@
+#Assignment 1 for MSc creating the Bravais Lattice structures for VMD
